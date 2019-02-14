@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .top-bar {
+    background: #353131;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  .btn {
+    background: #4eb5f7;;
+    color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 0.7rem 2rem;
+  }
+  
+  .btn:hover {
+    opacity: 0.9;
+  }
+  
+  .page-info {
+    margin-left: 1rem;
+  }
+  
+  .error {
+    background: red;
+    color: #fff;
+    padding: 1rem;
+  }
+
+  /* #next-page {
+    float: right;
+    display: inline;
+  }
+
+  .page-info {
+      text-align: center;
+  } */
